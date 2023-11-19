@@ -83,3 +83,5 @@ Here are the steps:
 	
 Go to your GitHub repository and verify that the code, including the custom Gradle task and the library dependencies, has been pushed successfully.
 
+![Screenshot 2023-11-19 202229](https://github.com/blueonsky29/HW.16-M.18/assets/101382822/c15b9346-306f-4555-a51b-76bf68e7bc96)
+
